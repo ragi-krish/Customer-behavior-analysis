@@ -126,6 +126,6 @@ Connect to your PostgreSQL instance and run `sqlfile.sql` against the `customer_
 
 ## 📬 Connect
 
-Built by **[Your Name]** · [LinkedIn](https://linkedin.com/in/yourprofile) · [Portfolio](https://yourportfolio.com)
+Built by **Ragikrishna** · [LinkedIn](https://linkedin.com/in/ragikrishna-radhakrishnan-144459141)
 
 > ⭐ Star this repo if you found it useful!
